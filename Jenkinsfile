@@ -1,4 +1,4 @@
-pipeline{
+pnmdc,m zx,mc.zmlxm, ,zx ipeline{
   agent any
   
   stages{
@@ -10,7 +10,7 @@ pipeline{
     stage('Build'){
       steps{
         echo 'Building'
-      }
+      }vhgvhj
     }
     stage('Deploy'){
       steps{
