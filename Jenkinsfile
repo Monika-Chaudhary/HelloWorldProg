@@ -1,4 +1,5 @@
 pnmdc,m zx,mc.zmlxm, ,zx ipeline{
+nbczmxn mxz cmnxzjm 
   agent any
   
   stages{
